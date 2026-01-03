@@ -1,0 +1,26 @@
+# Helios Intercropping Pipeline - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Image processing
+opencv-python>=4.5.0
+Pillow>=8.3.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Progress bars (optional)
+tqdm>=4.62.0
+
+# PyHelios - Install separately from GitHub
+# git clone https://github.com/PlantSimulationLab/PyHelios.git
+# cd PyHelios && pip install -e .
+
+# Note: PyHelios requires:
+# - CUDA 12.x + OptiX (for GPU-accelerated radiation simulation)
+# - GCC/Clang compiler
+# - CMake (for building Helios C++ framework)
