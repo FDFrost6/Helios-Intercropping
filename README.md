@@ -4,13 +4,13 @@ A modular, production-ready pipeline for generating photorealistic RGB and multi
 
 ## Features
 
-- 🌱 **Realistic Plant Growth** - Soft collision avoidance for natural canopy structure
-- 📸 **GPU-Accelerated Camera Imaging** - RGB and multispectral (R, G, B, NIR) imaging
-- 🎯 **Instance Segmentation** - COCO JSON format masks for ML training
-- 🌍 **Accurate Solar Modeling** - Date/time/location-based sun positioning
-- 🔬 **Literature-Based Parameters** - Emergence rates, reflectance values from research
-- 🎨 **Photorealistic Rendering** - Textured soil, sky domes, realistic lighting
-- 🧩 **Modular Architecture** - Clean separation of concerns for easy extension
+- **Realistic Plant Growth** - Soft collision avoidance for natural canopy structure
+- **GPU-Accelerated Camera Imaging** - RGB and multispectral (R, G, B, NIR) imaging
+- **Instance Segmentation** - COCO JSON format masks for ML training
+- **Accurate Solar Modeling** - Date/time/location-based sun positioning
+- **Literature-Based Parameters** - Emergence rates, reflectance values from research
+- **Photorealistic Rendering** - Textured soil, sky domes, realistic lighting
+- **Modular Architecture** - Clean separation of concerns for easy extension
 
 ## Installation
 
