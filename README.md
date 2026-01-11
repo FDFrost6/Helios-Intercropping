@@ -274,7 +274,7 @@ MIT License - see LICENSE file for details
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/helios-intercropping/issues)
 - **PyHelios Forum**: [Discussions](https://github.com/PlantSimulationLab/PyHelios/discussions)
-- **Email**: your.email@example.com
+
 
 ---
 
